@@ -1,3 +1,3 @@
-# Family Gallery
+# Gorilla Mux
 
-An awesome photo gallery application written in Go
+A using gorilla/mux for Go
